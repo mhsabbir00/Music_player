@@ -1,0 +1,37 @@
+[
+    {
+        "rating": "4.5",
+        "title": "Best-8",
+        "text": "Khola Janala",
+        "img": "img/pic-6.png",
+        "audio": "khola.mp3"
+    },
+    {
+        "rating": "4.6",
+        "title": "Best-2",
+        "text": "Meri Jindegi Tu",
+        "img": "img/pic-7.png",
+        "audio": "mei.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "Best-3",
+        "text": "O bole Gaya",
+        "img": "img/pic-8.png",
+        "audio": "o_bole.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "Best-04",
+        "text": "Param Sundari",
+        "img": "img/pic-9.png",
+        "audio": "param.mp3" 
+    },
+    {
+        "rating": "4.8",
+        "title": "Best-05",
+        "text": "Sakhiya-2.0",
+        "img": "img/pic-10.png",
+        "audio": "sakhiya.mp3"
+    }
+]
